@@ -1,0 +1,20 @@
+{
+  "name": "fbs-bookwriter",
+  "installedAt": 1781234658018,
+  "source": "marketplace",
+  "version": "3.0.0",
+  "skillId": "skill_2053083113738002432",
+  "examples_zh": [
+    "帮我写一本关于AI创业的书，先定大纲",
+    "写一份企业数字化转型白皮书",
+    "生成一本培训手册的完整框架"
+  ],
+  "examples_en": [
+    "Write a book about AI entrepreneurship, start with outline",
+    "Draft a corporate digital transformation whitepaper",
+    "Create a complete training manual framework"
+  ],
+  "iconSource": "https://openplatform-cdn.codebuddy.cn/public/skills/icons/fbs-bookwriter.png",
+  "iconLocalPath": "C:\\Users\\Yuki\\.workbuddy\\skills\\skill_2053083113738002432\\_icon.png",
+  "iconDownloadedFrom": "https://openplatform-cdn.codebuddy.cn/public/skills/icons/fbs-bookwriter.png"
+}

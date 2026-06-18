@@ -1,0 +1,32 @@
+# 敏感文件
+*.db
+*.db-shm
+*.db-wal
+*.log
+sessions/
+logs/
+file-history/
+shell-snapshots/
+traces/
+blobs/
+binaries/
+local_storage/
+automation-backups/
+plugin-marketplace-state-new/
+plugins/
+vendor/
+app/
+inspiration/
+plans/
+tasks/
+connectors-marketplace/
+mcp-approvals.json
+user-state.json
+workspace-state.json
+settings.json
+
+# Python
+__pycache__/
+*.pyc
+export_data.py
+create_repo.py
