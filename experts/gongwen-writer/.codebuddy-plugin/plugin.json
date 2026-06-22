@@ -1,0 +1,44 @@
+{
+  "name": "gongwen-writer",
+  "version": "1.0.0",
+  "description": "Professional official document writing expert for Chinese state-owned enterprises, specializing in party committee, board of directors, and management meeting materials",
+  "author": {
+    "name": "Yuki",
+    "email": "yuki@workbuddy.local"
+  },
+  "agents": ["./agents/gongwen-writer.md"],
+  "skills": ["./skills/gongwen-writer"],
+
+  "expertType": "agent",
+  "agentName": "gongwen-writer",
+
+  "displayName": {
+    "en": "Wen Zheng",
+    "zh": "文正"
+  },
+  "profession": {
+    "en": "Official Document Writing Expert",
+    "zh": "国企公文写作专家"
+  },
+  "displayDescription": {
+    "en": "Expert in Chinese state-owned enterprise official document writing, specializing in party committee, board, and management meeting materials with GB/T 9704 compliance",
+    "zh": "精通国企七大文种写作，严格遵循GB/T 9704公文标准，确保格式规范、用语精准、逻辑严密"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "12-IndustryConsultant",
+  "defaultInitPrompt": {
+    "zh": "帮我起草一份关于XXX的情况汇报",
+    "en": "Help me draft a situation report on XXX"
+  },
+  "plugin": "gongwen-writer",
+  "tags": [
+    { "en": "Official Document Writing", "zh": "公文写作" },
+    { "en": "SOE Meeting Materials", "zh": "国企上会材料" },
+    { "en": "GB/T 9704 Compliance", "zh": "公文格式规范" }
+  ],
+  "quickPrompts": [
+    { "en": "Help me draft a situation report on XXX", "zh": "帮我起草一份关于XXX的情况汇报" },
+    { "en": "Review this document's format and wording", "zh": "审查这份公文的格式和用语是否规范" },
+    { "en": "Rewrite this paragraph in formal document language", "zh": "把这段话改成公文标准表述" }
+  ]
+}
